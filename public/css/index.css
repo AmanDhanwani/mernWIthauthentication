@@ -1,0 +1,8 @@
+.carousel-item img{
+    height: 60vh;
+}
+
+#cardcont{
+    display: flex;
+    justify-content: center;
+}
